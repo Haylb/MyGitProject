@@ -2,7 +2,13 @@
 Welcome to Hayden and Braden's GitHub Repository
 
 Haydens Contribution:
-- Created the repository and invited Braden to it
+- Creates and manages the GitHub repository.
+- Sets up the repository structure and organizes branches.
+- Handles branching, commits, pull requests, and merging.
+- Ensures all changes are properly tracked.
 
 Bradens Contribution:
-- Joined the repository
+- Writes and formats the README.md file.
+- Documents team members’ contributions.
+- Captures screenshots of commit history and final repository content.
+- Prepares and submits the final PDF report.
