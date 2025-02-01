@@ -21,3 +21,7 @@ for x in range(5):
             keepGuessing = False
         else:
             print("Incorrect variable, try again.")
+print("Thanks for playing.")  
+avgGuessCounter = guessCounter / 5
+print("Average number of guesses: " + str(avgGuessCounter))
+
