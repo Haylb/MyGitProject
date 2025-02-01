@@ -1,13 +1,3 @@
-###########
-# Course: COMP 1113 FA02, 2021
-# Assignment 3
-# Author: Hayden Breault
-# Student ID: 100162560
-# email address: 162560@acadiau.ca
-# Date: 2021-10-10
-# I certify that this code is my own and I have not broken any rules concerning Academic Dishonesty.
-############
-
 from random import randint
 
 keepGuessing = True
