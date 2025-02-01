@@ -12,3 +12,8 @@ Bradens Contribution:
 - Documents team members’ contributions.
 - Captures screenshots of commit history and final repository content.
 - Prepares and submits the final PDF report.
+
+- Steps we took:
+- 1. Braden created the number_guesser.py file for our coding problem
+  2. Braden did the main body of the code in his branch
+  3. Hayden did the print statments of our code
