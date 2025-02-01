@@ -1,6 +1,8 @@
 # MyGitProject
 Welcome to Hayden and Braden's GitHub Repository
 
+For our problem we devolped a number guesser which guesses a number between 1 and 10.
+
 Haydens Contribution:
 - Creates and manages the GitHub repository.
 - Sets up the repository structure and organizes branches.
